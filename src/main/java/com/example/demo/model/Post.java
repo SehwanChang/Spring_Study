@@ -1,4 +1,4 @@
-package org.example;
+package com.example.demo.model;
 
 public class Post {
     private String title;
